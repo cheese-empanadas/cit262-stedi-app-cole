@@ -6,3 +6,4 @@ COPY pakcage-lock.json ./
 RUN npm install 
 COPY . ./
 RUN npm run test
+#test
